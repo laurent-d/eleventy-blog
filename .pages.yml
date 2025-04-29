@@ -17,8 +17,7 @@ content:
         label: Image Gallery
         type: image
         options:
-          multiple:
-            max: 6
+          multiple: true
   - name: about
     label: About page
     type: file
