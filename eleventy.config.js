@@ -100,6 +100,9 @@ module.exports = function(eleventyConfig) {
 
 	// eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
 
+	// copy image files to the output folder
+	eleventyConfig.addPassthroughCopy("public/img");
+
 	return {
 		// Control which files Eleventy will process
 		// e.g.: *.md, *.njk, *.html, *.liquid
