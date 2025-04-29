@@ -13,6 +13,12 @@ content:
       - { name: draft, label: Draft, type: boolean }
       - { name: tags, label: Tags, type: string, list: true }
       - { name: body, label: Body, type: rich-text }
+      - name: gallery
+        label: Image Gallery
+        type: image
+        options:
+          multiple:
+            max: 6
   - name: about
     label: About page
     type: file
