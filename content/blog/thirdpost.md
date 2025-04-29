@@ -47,4 +47,6 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 
 ![](/public/img/mail_checkin-logo%20(2).png)
 
+![](/public/img/guest-qrcode.png)
+
 TESTTTTTT
